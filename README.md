@@ -22,3 +22,5 @@ returns, products, customers and territories
 • Build a relational data model
 • Create new calculated columns and DAX measures
 • Design an interactive report to analyze and visualize the data
+
+
