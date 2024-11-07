@@ -24,3 +24,4 @@ returns, products, customers and territories
 • Design an interactive report to analyze and visualize the data
 
 
+![Uploading Screenshot 2024-11-07 215604.png…]()
